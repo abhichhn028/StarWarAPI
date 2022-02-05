@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/StarWarAPI/static/css/main.56da2799.css",
+    "main.js": "/StarWarAPI/static/js/main.f5c99deb.js",
+    "static/js/787.1994feb1.chunk.js": "/StarWarAPI/static/js/787.1994feb1.chunk.js",
+    "static/media/StarWar.png": "/StarWarAPI/static/media/StarWar.476464e248a6d8f1273c.png",
+    "static/media/logo.svg": "/StarWarAPI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/StarWarAPI/index.html",
+    "main.56da2799.css.map": "/StarWarAPI/static/css/main.56da2799.css.map",
+    "main.f5c99deb.js.map": "/StarWarAPI/static/js/main.f5c99deb.js.map",
+    "787.1994feb1.chunk.js.map": "/StarWarAPI/static/js/787.1994feb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56da2799.css",
+    "static/js/main.f5c99deb.js"
+  ]
+}
